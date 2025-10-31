@@ -1,0 +1,3 @@
+# sigma
+
+recursive window manager
