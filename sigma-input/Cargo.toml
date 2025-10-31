@@ -1,0 +1,8 @@
+[package]
+name = "sigma-input"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+evdev = "0.13"
+chrono = "0.4"
